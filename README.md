@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer & Software Engineering Student</h3>
 
 <div align="center">
-<img alt="Coding" width="600" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<img alt="Coding" width="600" src="https://i.pinimg.com/originals/3a/cd/9f/3acd9fc98087ef66e7c3b0173e55da57.gif">
 </div>
 
 ---
