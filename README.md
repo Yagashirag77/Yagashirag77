@@ -13,7 +13,7 @@
 * 💻 Full-Stack Developer with experience in Web, Mobile and Desktop applications.
 * 🤖 Interested in Artificial Intelligence, Software Architecture and Modern Web Technologies.
 * 🚀 Always learning and building new projects to improve my skills.
-* 📫 Reach me at **[gartite.yassine2004@gmail.com](mailto:gartite.yassine2004@gmail.com)**
+* 📫 Reach me at **[gartite.yassine@gmail.com](mailto:gartite.yassine@gmail.com)**
 * 🔐 Some of my projects are private — feel free to ask if you're curious!
 
 ---
